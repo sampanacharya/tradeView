@@ -1,0 +1,3 @@
+Apply EMA on BTCUSDT with an interval of 1m
+Apply EMA SMA on BTCUSDT with an interval of 1m
+Apply KAMA on ETHUSDT for a interval of 1h
